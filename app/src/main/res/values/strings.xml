@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KiTE Clubs</string>
+    <string name="loading">Loading...</string>
+    <string name="club_moz">KiTE Mozilla</string>
+    <string name="club_cdc">CoderDojo Coimbatore</string>
+</resources>
